@@ -5,6 +5,19 @@
 
 ![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview.PNG)
 
+**Modify Features**
+
+- Remove & Disable Google Ads
+- Unlock Pro Features
+- Unified main color interface style
+- Redrawing of buggy icons
+- Compatible with the latest Android system
+- Remove & disable all analytics service activities
+- At the same time adapt to day & night mode automatic color change
+- The navigation bar and status bar change color following the system
+- Remove & shield useless interface layout & buttons
+- Corrected language strings files for some countries
+
 **Download**
 
 [<img src="https://raw.githubusercontent.com/PatrickAlex2019/QuickPic-Gallery/master/Images/GitHub.svg"
