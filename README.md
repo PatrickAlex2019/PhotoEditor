@@ -1,6 +1,10 @@
 # Photo Editor
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/PhotoEditor?color=blue&label=Release&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases) [![Downloads](https://img.shields.io/github/downloads/PatrickAlex2019/PhotoEditor/total?label=Downloads&logo=github&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases)
 
+**Preview**
+
+![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview.PNG)
+
 **Download**
 
 [<img src="https://raw.githubusercontent.com/PatrickAlex2019/QuickPic-Gallery/master/Images/GitHub.svg"
