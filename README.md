@@ -20,6 +20,14 @@
 - Corrected language strings files for some countries
 - Support shortcuts
 
+**Thanks**
+• MonetCarlos(Main)
+http://www.coolapk.com/u/9021855
+• Dio、wushidi(Idea)
+https://t.me/youthkinga
+• HLBDSY(Crack)
+http://www.coolapk.com/u/1232743
+
 **Download**
 
 [<img src="https://raw.githubusercontent.com/PatrickAlex2019/QuickPic-Gallery/master/Images/GitHub.svg"
