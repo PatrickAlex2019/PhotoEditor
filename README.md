@@ -30,9 +30,9 @@
 
 **Thanks**
 
-- MonetCarlos (Main)
+- MonetCarlos (Interface design)
 
-- Dio、wushidi (Idea)
+- Dio、wushidi (Idea、Decompile)
 
 - HLBDSY (Crack)
 
