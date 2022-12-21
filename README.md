@@ -5,6 +5,14 @@
 
 ![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview.PNG)
 
+**Affirm**
+
+- For exchange and learning only
+
+- No sale for commercial use
+
+- Committed to improving the software, so that the software has better features
+
 **Modify Features**
 
 - Support Android 13 Monet theme
