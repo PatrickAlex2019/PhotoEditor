@@ -22,14 +22,11 @@
 
 **Thanks**
 
-- MonetCarlos(Main)
-http://www.coolapk.com/u/9021855
+- MonetCarlos (Main)
 
-- Dio、wushidi(Idea)
-https://t.me/youthkinga
+- Dio、wushidi (Idea)
 
-- HLBDSY(Crack)
-http://www.coolapk.com/u/1232743
+- HLBDSY (Crack)
 
 **Download**
 
