@@ -1,19 +1,23 @@
 # Photo Editor
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/PhotoEditor?color=blue&label=Release&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases) [![Downloads](https://img.shields.io/github/downloads/PatrickAlex2019/PhotoEditor/total?label=Downloads&logo=github&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases)
 
-**Preview**
+**➢ Preview**
 
 ![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview.PNG)
 
-**Affirm**
+**➢ Affirm**
 
-- For exchange and learning only
+1.For exchange and learning only.
 
-- No sale for commercial use
+2.No sale for commercial use.
 
-- Committed to improving the software, so that the software has better features
+3.Committed to improving the software, so that the software has better FEATURES.
 
-**Modify Features**
+4.The community folk version only optimizes the interface of the application through disassembly technology. 
+
+This version is only for learning and communication, and commercial use is prohibited. If you like it, it is recommended to buy genuine software first，then use this optimized version.
+
+**➢ Modify Features**
 
 - Support Android 13 Monet theme
 - Remove & Disable Google Ads
@@ -28,7 +32,7 @@
 - Corrected language strings files for some countries
 - Support shortcuts
 
-**Thanks**
+**➢ Thanks**
 
 - MonetCarlos (Interface design)
 
@@ -36,7 +40,7 @@
 
 - HLBDSY (Crack)
 
-**Download**
+**➢ Download**
 
 [<img src="https://raw.githubusercontent.com/PatrickAlex2019/QuickPic-Gallery/master/Images/GitHub.svg"
       alt='Get it on GitHub'
