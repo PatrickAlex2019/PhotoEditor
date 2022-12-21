@@ -21,11 +21,12 @@
 - Support shortcuts
 
 **Thanks**
-• MonetCarlos(Main)
+
+◎ MonetCarlos(Main)
 http://www.coolapk.com/u/9021855
-• Dio、wushidi(Idea)
+◎ Dio、wushidi(Idea)
 https://t.me/youthkinga
-• HLBDSY(Crack)
+◎ HLBDSY(Crack)
 http://www.coolapk.com/u/1232743
 
 **Download**
