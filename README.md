@@ -7,6 +7,7 @@
 
 **Modify Features**
 
+- Support Android 13 Monet theme
 - Remove & Disable Google Ads
 - Unlock Pro Features
 - Unified main color interface style
@@ -17,6 +18,7 @@
 - The navigation bar and status bar change color following the system
 - Remove & shield useless interface layout & buttons
 - Corrected language strings files for some countries
+- Support shortcuts
 
 **Download**
 
