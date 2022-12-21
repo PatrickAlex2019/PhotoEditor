@@ -15,7 +15,7 @@
 
 4.The community folk version only optimizes the interface of the application through disassembly technology. 
 
-This version is only for learning and communication, and commercial use is prohibited. If you like it, it is recommended to buy genuine software first，then use this optimized version.
+5.If you like it, it is recommended to buy genuine software first，then use this optimized version.
 
 **➢ Modify Features**
 
