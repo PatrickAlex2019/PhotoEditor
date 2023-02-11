@@ -36,7 +36,7 @@
 
 - MonetCarlos (Interface design)
 
-- Dio、wushidi (Idea、Decompile)
+- Dio、Wushidi、Simba、HLBDSY (Idea、Decompile)
 
 - HLBDSY (Crack)
 
