@@ -34,9 +34,9 @@
 
 **➢ Thanks**
 
-- MonetCarlos (Interface design)
+- MonetCarlos(Interface re-design)
 
-- Dio、Wushidi、Simba、HLBDSY (Idea、Decompile)、DieHeart、虫大
+- Dio、Wushidi、Simba(Deceased)、为爱绝缘(Idea、Decompile)、DieHeart(Hacker)、虫大(Decompile)
 
 - HLBDSY (Crack)
 
