@@ -19,6 +19,8 @@
 
 **➢ Modify Features**
 
+- Support HarmonyOS 4.2+
+- Support shortcuts (Android 10+)
 - Support Android 13 Monet theme
 - Remove & Disable Google Ads
 - Unlock Pro Features
