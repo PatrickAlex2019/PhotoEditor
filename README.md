@@ -32,6 +32,8 @@
 - The navigation bar and status bar change color following the system
 - Remove & shield useless interface layout & buttons
 - Corrected language strings files for some countries
+- Remove some functional restrictions of the software itself
+- Optimize software internal compression format
 - Support shortcuts
 
 **➢ Thanks**
