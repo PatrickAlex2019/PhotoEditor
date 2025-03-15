@@ -3,7 +3,7 @@
 
 **➢ Preview**
 
-![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview.PNG)
+![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview2.png)
 
 **➢ Confirm your consent**
 
