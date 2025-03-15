@@ -25,9 +25,9 @@
 - Remove & Disable Google Ads
 - Unlock Pro Features
 - Unified main color interface style
-- Redrawing of buggy icons
+- Re-drawing of interface icons
 - Compatible with the latest Android system
-- Remove & disable all analytics service activities
+- Remove & disable & hide all analytics service activities
 - At the same time adapt to day & night mode automatic color change
 - The navigation bar and status bar change color following the system
 - Remove & shield useless interface layout & buttons
@@ -35,13 +35,14 @@
 - Remove some functional restrictions of the software itself
 - Optimize software internal compression format
 - Add navigation bar and status bar color change function for low version Android devices
-- Support shortcuts
 
 **➢ Thanks**
 
 - MonetCarlos(Interface re-design)
 
-- Dio、Wushidi、Simba(Deceased)、为爱绝缘(Idea、Decompile)、DieHeart(Hacker)、虫大(Decompile)
+- Dio(Some beautification)、Wushidi(Lifting restrictions)、Simba(Deceased)、为爱绝缘(Idea、Decompile)、DieHeart(Hacker)、虫大(Decompile)
+
+- Patrick Alex(Key)
 
 - HLBDSY (Crack)
 
