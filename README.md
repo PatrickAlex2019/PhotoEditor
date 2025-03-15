@@ -5,7 +5,7 @@
 
 ![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview.PNG)
 
-**➢ Affirm**
+**➢ Confirm your consent**
 
 1.For student exchange and study only
 
