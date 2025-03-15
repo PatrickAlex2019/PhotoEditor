@@ -39,11 +39,13 @@
 **➢ Thanks**
 
 - MonetCarlos(Interface re-design)
-
-- Dio(Some beautification)、Wushidi(Lifting restrictions)、Simba(Deceased)、为爱绝缘(Idea、Decompile)、DieHeart(Hacker)、虫大(Decompile)
-
+- Dio(Some beautification)
+- Wushidi(Lifting restrictions)
+- Simba(Deceased)
+- 为爱绝缘(Idea、Decompile)
+- DieHeart(Hacker)
+- 虫大(Decompile)
 - Patrick Alex(Key)
-
 - HLBDSY (Crack)
 
 **➢ Download**
