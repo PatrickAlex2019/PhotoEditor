@@ -7,15 +7,15 @@
 
 **➢ Affirm**
 
-1.For exchange and learning only.
+1.For student exchange and study only
 
-2.No sale for commercial use.
+2.No sale for commercial use
 
-3.Committed to improving the software, so that the software has better FEATURES.
+3.Committed to improving the software, so that the software has better FEATURES
 
-4.The community folk version only optimizes the interface of the application through disassembly technology. 
+4.The community folk version only optimizes the interface of the application through disassembly technology
 
-5.If you like it, it is recommended to buy genuine software first，then use this optimized version.
+5.If you like it, it is recommended to buy genuine software first，then use this optimized version
 
 **➢ Modify Features**
 
@@ -34,6 +34,7 @@
 - Corrected language strings files for some countries
 - Remove some functional restrictions of the software itself
 - Optimize software internal compression format
+- Add navigation bar and status bar color change function for low version Android devices
 - Support shortcuts
 
 **➢ Thanks**
