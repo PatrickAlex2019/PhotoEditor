@@ -34,7 +34,7 @@
 - Corrected language strings files for some countries
 - Remove some functional restrictions of the software itself
 - Optimize software internal compression format
-- Add navigation bar and status bar color change function for low version Android devices
+- Add some high-version device features for low-version Android devices
 
 **➢ Thanks**
 
