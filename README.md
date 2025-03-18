@@ -35,17 +35,18 @@
 - Remove some functional restrictions of the software itself
 - Optimize software internal compression format
 - Add some high-version device features for low-version Android devices
+- The software does not contain any virus. If you are still worried, you can run it offline
 
 **➢ Thanks**
 
-- MonetCarlos(Interface re-design)
-- Dio(Some beautification)
-- Wushidi(Lifting restrictions)
-- Simba(Deceased)
-- 为爱绝缘(Idea、Decompile)
-- DieHeart(Hacker)
-- 虫大(Decompile)
-- Patrick Alex(Key)
+- MonetCarlos (Interface re-design)
+- Dio (Some beautification)
+- Wushidi (Lifting restrictions)
+- Simba (Deceased)
+- 为爱绝缘 (Idea、Decompile)
+- DieHeart (Hacker)
+- 虫大 (Decompile)
+- Patrick Alex (Key)
 - HLBDSY (Crack)
 
 **➢ Download**
