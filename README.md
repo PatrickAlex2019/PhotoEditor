@@ -17,6 +17,10 @@
 
 5.If you like it, it is recommended to buy genuine software first，then use this optimized version
 
+6.The software does not contain any virus
+
+7.If you are still worried, you can run it offline or view source
+
 **➢ Modify Features**
 
 - Support HarmonyOS 4.2+
@@ -35,7 +39,6 @@
 - Remove some functional restrictions of the software itself
 - Optimize software internal compression format
 - Add some high-version device features for low-version Android devices
-- The software does not contain any virus. If you are still worried, you can run it offline
 
 **➢ Thanks**
 
