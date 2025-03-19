@@ -45,7 +45,7 @@
 - MonetCarlos (Interface re-design)
 - Dio (Some beautification)
 - Wushidi (Lifting restrictions)
-- Simba (Deceased)
+- Simba (Died in February 2024)
 - 为爱绝缘 (Idea、Decompile)
 - DieHeart (Hacker)
 - 虫大 (Decompile)
