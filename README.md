@@ -8,7 +8,7 @@
 > [!WARNING]
 >- For student exchange and study only
 >- No sale for commercial use
->- Committed to improving the software, so that the software has better FEATURES
+>- Committed to improving the software, so that the software has better features
 >- The community folk version only optimizes the interface of the application through disassembly technology
 >- If you like it, it is recommended to buy genuine software first，then use this optimized version
 >- The software does not contain any virus
