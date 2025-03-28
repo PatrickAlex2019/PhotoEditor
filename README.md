@@ -1,25 +1,18 @@
 # Photo Editor
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/PhotoEditor?color=blue&label=Release&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases) [![Downloads](https://img.shields.io/github/downloads/PatrickAlex2019/PhotoEditor/total?label=Downloads&logo=github&style=flat-square)](https://github.com/PatrickAlex2019/PhotoEditor/releases)
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/PatrickAlex2019/PhotoEditor?color=blue&label=Release&style=flat)](https://github.com/PatrickAlex2019/PhotoEditor/releases) [![Downloads](https://img.shields.io/github/downloads/PatrickAlex2019/PhotoEditor/total?label=Downloads&logo=github&style=flat)](https://github.com/PatrickAlex2019/PhotoEditor/releases)
 
 **➢ Preview**
 
 ![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview2.png)
 
-**➢ Confirm your consent**
-
-1.For student exchange and study only
-
-2.No sale for commercial use
-
-3.Committed to improving the software, so that the software has better FEATURES
-
-4.The community folk version only optimizes the interface of the application through disassembly technology
-
-5.If you like it, it is recommended to buy genuine software first，then use this optimized version
-
-6.The software does not contain any virus
-
-7.If you are still worried, you can run it offline or view source
+> [!WARNING]
+>1. For student exchange and study only
+>2. No sale for commercial use
+>3. Committed to improving the software, so that the software has better FEATURES
+>4. The community folk version only optimizes the interface of the application through disassembly technology
+>5. If you like it, it is recommended to buy genuine software first，then use this optimized version
+>6. The software does not contain any virus
+>7. If you are still worried, you can run it offline or view source
 
 **➢ Modify Features**
 
