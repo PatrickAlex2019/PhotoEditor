@@ -6,7 +6,7 @@
 ![alt text](https://raw.githubusercontent.com/PatrickAlex2019/PhotoEditor/master/PhotoEditor_Preview2.png)
 
 > [!WARNING]
->- This branch will be discontinued before July, 2025
+>- This branch on Github was stopped before July 2025
 >- For student exchange and study only
 >- No sale for commercial use
 >- Committed to improving the software, so that the software has better features
