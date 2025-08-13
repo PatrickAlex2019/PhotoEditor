@@ -13,7 +13,7 @@
 >- The community folk version only optimizes the interface of the application through disassembly technology
 >- If you like it, it is recommended to buy genuine software first，then use this optimized version
 >- The software does not contain any virus
->- If you are still worried, you can run it offline or view source
+>- If you are still worried, you can run it offline
 
 **➢ Modify Features**
 
