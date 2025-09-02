@@ -52,4 +52,4 @@
       alt='Get it on GitHub'
       height="80">](https://github.com/PatrickAlex2019/PhotoEditor/releases/latest) [<img src="https://raw.githubusercontent.com/PatrickAlex2019/QuickPic-Gallery/master/Images/Telegram.svg"
       alt='Get it on Telegram'
-      height="80">](https://t.me/anubis_recommended)
+      height="80">](https://t.me/app_recommended)
